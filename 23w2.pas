@@ -2,7 +2,7 @@
 begin
   read(i);
   case i of 
-    'a' : writeln('HUI');
+    'a' : writeln('h');
     'b' :writeln('Nothin');
   else
     writeln('unknown latter', i);
